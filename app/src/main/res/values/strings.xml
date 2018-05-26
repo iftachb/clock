@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">clock</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="result">Result</string>
+    <string name="mode">Mode</string>
+    <string name="clock">Clock</string>
+    <string name="set">Set</string>
+    <string name="start_after_start">Cannot perform start after start</string>
+    <string name="stop_after_stop">Cannot perform stop after stop</string>
+</resources>
